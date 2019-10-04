@@ -14,8 +14,6 @@
 
 #include <cstdint>
 #include <cmath>
-#include <type_traits>
-
 
 namespace z8
 {
