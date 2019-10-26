@@ -1,0 +1,1 @@
+psp-g++ -std=c++11 -DLUA_ANSI -O2 -G0 -Wall -c *.c
